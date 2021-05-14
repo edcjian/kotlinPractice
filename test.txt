@@ -1,0 +1,4 @@
+@Result(123,"edc")
+class Foo(val name:Int){
+    fun <T> hello(a:T)="hel"
+}//
